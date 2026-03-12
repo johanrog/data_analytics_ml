@@ -1,0 +1,59 @@
+European Engineers Scraped SpaceX Flight Data to Design a Wild Winged Rival to Starship
+Europe proposes a radically efficient, winged rocket to challenge SpaceX's super-heavy launch monopoly.
+by Tibi Puiu
+March 5, 2026
+
+Spaceflight entered a new era the moment a stainless-steel tower the size of a skyscraper lifted off the Texas coast. SpaceX successfully launched its Starship Super Heavy booster and later caught it mid-air with massive mechanical arms on October 13, 2024, during its fifth Starship test flight. 
+
+Starship is designed to haul more than 100 metric tons to low Earth orbit while remaining entirely reusable. If SpaceX perfects this system, it will drastically slash the cost of reaching space. The cost of deploying satellites or even space stations would be only a fraction of the staggering expense required today. But what does this mean for the rest of the world? Do other space agencies simply sit idly by and outsource their launches to SpaceX, or do they find a different path to the stars?
+
+Researchers at the German Aerospace Center (DLR) decided to crunch the numbers. They wanted to know exactly what Starship is capable of today, and how Europe might build a sovereign alternative that doesn’t rely on the whims of American billionaires.
+
+Decoding Starship
+You might wonder how independent scientists can accurately evaluate a secretive corporate rocket. The DLR team — led by Moritz Herberhold, Leonid Bussler, Martin Sippel, and Jascha Wilken — had to get creative. They didn’t just take SpaceX’s PR claims at face value. Instead, they built a text-recognition algorithm to scrape telemetry data directly from the live broadcasts of Starship’s test flights.
+
+By feeding this second-by-second data into their own trajectory simulators, they built an incredibly detailed model of Starship’s actual performance.
+
+The results are astounding, yet grounding. In its current iteration (Starship V1), the fully reusable vehicle can deliver about 59 metric tons (roughly 66 US tons) to low Earth orbit. For context, that is roughly the same amount of cargo a Falcon Heavy can loft into orbit right now. But there is a major catch: the Falcon Heavy can only hit those numbers if it flies completely expendably, sacrificing its boosters to the ocean instead of keeping precious fuel in reserve to land them safely.
+
+SpaceX’s planned upgrade, Starship V2, swaps in more powerful Raptor 3 engines and enlarges the fuel tanks. The researchers project this future version will comfortably hit 115 metric tons in its reusable configuration. If SpaceX flew it as an expendable rocket (throwing it away after one use), it could launch 188 metric tons into orbit, completely dwarfing the legendary Saturn V that took the first astronauts to the moon.
+
+The Hidden Cost of Reusability
+When fully fueled and sitting on the launchpad, the next-generation Starship V2 will weigh a staggering 5,595 metric tons — and that is before you even load a payload inside. Standing over 124 meters tall, its super-heavy booster alone requires thirty-three roaring engines just to heave the vehicle off the ground.
+
+f Starship is so utterly massive, why does it “only” carry 115 tons to orbit? It all boils down to the heavy tax of full reusability.
+
+To bring a second stage safely back through Earth’s atmosphere, you have to armor it. Starship carries a massive heat shield made of thousands of thermal tiles. It also has aerodynamic fins for steering and needs to hold back precious fuel to fire its engines for landing.
+
+When you add all of this up, the rocket becomes incredibly heavy. For every ton Starship sends to orbit, only about 40% of that orbital mass is actually your payload. The other 60% is the ship itself. 
+
+This is perfectly fine if your mission requires you to refuel in space and fly the whole ship to Mars. But what if you just want to put a massive satellite in Earth orbit? The DLR researchers argue that Starship is drastically overbuilt for standard cargo runs in Earth’s close orbit. 
+
+Europe’s Winged Alternative
+This brings us to Europe’s proposed answer: the RLV C5.
+
+If the goal is simply to launch super-heavy payloads, the DLR team proposes a clever compromise. Instead of full reusability, they suggest a partially reusable rocket based on components from the German SpaceLiner program.
+
+The RLV C5 pairs a massive, winged booster stage with an expendable upper stage. Why throw the upper stage away? Because stripping away the heat shields, landing gear, and return fuel makes the rocket impressively efficient. The expendable upper stage has a dry mass five times lower than Starship.
+
+As a result, an astonishing 74% of the mass the RLV C5 carries to orbit is pure, usable payload.
+
+But how on Earth do you recover the first stage without firing landing engines like a Falcon 9? You give it wings. The SpaceLiner booster burns highly efficient liquid hydrogen and oxygen to push the payload toward space. After separating, the booster glides back down into the atmosphere. Once it slows to subsonic speeds, a large aircraft swoops in, captures the gliding rocket in mid-air, and tows it home.
+
+The DLR researchers have already tested the concept in lab-scale experiments. Because the booster doesn’t need to save fuel for a landing burn, every drop of propellant goes toward launching the payload.
+
+Paper Rockets vs. Flying Giants
+
+The hypothetical-for-now RLV C5 could launch over 70 metric tons (77 US tons) into orbit. It would be vastly smaller than Starship at only a third of its launch weight and likely far cheaper to operate for Earth-centric missions, even if it throws away its upper stage and has to make a new one from scratch for every launch (although that’s a pretty big assumption).
+
+However, we have to acknowledge the elephant in the room. Starship is a real piece of hardware that has streamed through the Texas skies eleven times. It is flying, sometimes breaking, and always improving with every launch.
+
+The RLV C5, on the other hand, exists purely on paper and in computer simulations. The capital investment, institutional knowledge, and pure human effort required to catch up with SpaceX are massive.
+
+But as the global space industry shifts, sovereign access to space is becoming a critical security issue for European nations.
+
+In any event, the researchers make it clear that the RLV C5 isn’t meant to replace Starship, which is designed from the outset for interplanetary missions. Instead, it’s about providing a tailored, highly efficient tool for a specific job. As Moritz Herberhold and his team conclude in their paper: “RLV C5 offers an effective path for Europe to independently develop partially reusable super-heavy launch capabilities.”
+
+Sometimes, competing with a giant doesn’t mean building a bigger giant. It means building something smarter for your exact needs.
+
+The findings appeared in the CEAS Space Journal.

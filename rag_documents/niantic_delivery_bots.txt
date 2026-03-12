@@ -1,0 +1,24 @@
+New Niantic Partnership Helps Food Delivery Bots ‘Pokémon Go’ Get Your Treats
+Will an association with that game everyone played a little bit in 2016 help keep the bots from getting lost and beat up?
+By Justin Caffier
+Published March 11, 2026
+
+If you live in a major city in the US, China, or certain European nations, you’ve likely seen a few food delivery robots by now. Anthropomorphized with googly eyes and names, these autonomous urban rovers brave inclement weather, navigate broken sidewalks, and dispassionately steer around the bodies of the unhoused to bring you your treats.
+
+Not everyone is thrilled to share the sidewalk with them, of course. A recent Economist story highlights the uptick in vandalism against the delivery drones by a frustrated populace. The piece tries to make the case that the machines don’t deserve to be the whipping bots/release valves for all of society’s ills, yet conveniently fails to mention that they’re also narcs. Yes, the cute little guys delivering your Uber Eats have also been caught delivering their camera footage to the LAPD.
+
+Getting people to give these things a shot is hard enough without also having to shake the stigma that they’re a new part of the panopticon. Perhaps that’s why the companies behind these things have taken them on a bit of PR rehab blitz in recent years. The peak of this mania came last spring when the Netflix talk show Everybody’s Live With John Mulaney made Serve Robotics’ “Saymo” delivery robot a recurring character, pretty much third-billed after the host and Richard Kind. And yet, the man-on-robot beatings persisted.
+
+A recent partnership between another major player in the last-mile autonomous delivery space and a company tangentially connected to a beloved gaming IP may be just the magic bullet needed to finally sell us on the machines. Coco Robotics, known for its robots’ neon pink paint jobs, has struck a deal with Niantic Spatial, the AI spinoff of the AR company that brought us Pokémon Go. And what’s the engine at the core of this business arrangement? The data you willingly handed over while throwing your Poké Balls, of course.
+
+As laid out in a recent piece by MIT Technology Review, Niantic plans to use the trove of photos users took in AR mode while playing the game to digitally construct models of densely populated urban areas. Those models will then be used by the Coco bots to make navigating the city streets a bit easier. The alliance does seem to make sense on paper, given the unique challenges delivery bots face in building-heavy metropolises as well as the staggering amount of raw data players have sent to the company.
+
+“The urban canyon is the worst place in the world for GPS,” Niantic CTO Brian McClendon told Technology Review. “If you look at that blue dot on your phone, you’ll often see it drift 50 meters, which puts you on a different block going a different direction on the wrong side of the street.”
+
+The massive success of Pokémon Go may end up giving an edge to Coco, where other companies are still struggling with spotty service. We all know the breakout hit mobile game took the world by storm when it launched in 2016. McClendon claims 500 million users installed the app in the first two months, and 100 million players were still active in 2024. It was such a big part of the zeitgeist that even Jeffrey Epstein was emailing about it back then.
+
+With all those hours of playtime logged, Niantic received a trove of locational data—thousands of photos from every possible angle for the real-world regional landmarks sitting beneath digital PokéStops and Poké Gyms.
+
+It’s too soon to tell if this deal will be a win for Coco, let alone change public perception on delivery bots. But if they keep leaning into the Pikachu of it all and downplaying the presence of AI, which people hate more than ever, they may yet have a chance to be the very best.
+
+
