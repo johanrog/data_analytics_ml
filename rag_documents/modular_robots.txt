@@ -1,0 +1,18 @@
+These Self-Configuring Modular Robots May One Day Rule the World
+Billions of possible body plans, all made entirely of legs.
+By Tom Hawking
+Published March 9, 2026
+
+Horizon: Zero Dawn and Horizon: Forbidden West: both really great games, no?
+
+In entirely unrelated news, we were fascinated to read a recent paper published in the Proceedings of the National Academy of Sciences on what the authors are calling “reconfigurable modular robots.” As the name suggests, these robots are composed of multiple parts that can be configured in several ways, allowing the robots to adapt to their surroundings and the demands of whatever task they’re trying to perform. In the study, the authors explain that this modular system could allow for “the automatic design and rapid assembly of novel agile robots” in “a wide diversity of novel legged forms.”
+
+The study explains that the motivation for the system was removing human preconceptions and instead allowing robots to “evolve” on their own by configuring themselves into shapes and designs that best fit their environment. To this effect, they created simple but self-contained parts that they call “autonomous modular legs.” Each leg is a simple combination of shapes, two protruding cylinders joined to a central sphere, and is equipped with its own power supply, sensors, processors, and actuators. This means that even a single unit can carry out simple movements, including rolling, pivoting around its spherical center, and launching itself into the air.
+
+Add a couple more units, though, and suddenly the composite device is up and walking. As the paper explains, the legs can fill other roles in more complex configurations, “some [units] may cease to be legs within the aggregate machine, actively supporting the body and its movements (e.g., as a “backbone”) but no longer touching the surface during locomotion.”
+
+Each unit has multiple points to which another unit can attach itself: 18 of them, to be precise, which means that just two units can be combined in 435 ways. The number of possible configurations explodes as the number of units increases, and by the time you get to five units, there are hundreds of billions of possible combinations.
+
+As you might expect of a robot composed entirely of autonomous legs, there’s something disconcerting about the way it moves—its jerky, thrashing movements are distinctly arachnoid in nature, and frankly, it’s not the sort of thing you’d like to see coming toward you through a forest on a dark night. The paper notes that the robots “cannot yet autonomously absorb additional modules or reconfigure themselves to self-repair bodily damage, self-edit their morphology, or create self-copies.” But “yet” is doing a lot of work in that sentence, because it’s clear that being able to do all those things is exactly where this sort of design leads.
+
+For all its aesthetic uncanniness, this sort of system clearly has vast potential. Even in their current form, the robots are both robust and adaptable, and the paper envisages a future in which “a set of modular legs is standardized, streamlined, and mass produced,” resulting in emergent designs that “might recapitulate some of the locomotor structures and behaviors found in animals … or reveal entirely new solutions for old terrestrial problems.” This is all fascinating and technologically impressive—but if the resultant shapes ever start to look remotely like dinosaurs, we’re running for the hills.
